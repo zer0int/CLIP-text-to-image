@@ -3,7 +3,7 @@
 ## Overview
 This repository explores the concept of using OpenAI's CLIP model to guide itself towards generating an image from Gaussian noise based on a text prompt.
 
-Run `clipga-self-text-to-image.py` for a gradient ascent process that optimizes an image to match a given text prompt (defined at the very end!). The script saves `.npy` files, which you can analyze with `clipga-numpy-analysis.py`.
+Run `clipga-self-text-to-image.py` for a gradient ascent process that optimizes an image to match a given text prompt (defined at the very end!). The script also saves `.npy` files, which you can analyze with `clipga-numpy-analysis.py`.
 
 ## Prerequisites
 - This project requires [OpenAI's CLIP](https://github.com/openai/CLIP).
