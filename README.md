@@ -20,7 +20,7 @@ It doesn't converge to anything, it keeps oscillating around any related concept
 ![4image_260](https://github.com/zer0int/CLIP-text-to-image/assets/132047210/fc01888f-ace1-4563-bfcd-20194a7ac9c3) ![2image_160](https://github.com/zer0int/CLIP-text-to-image/assets/132047210/bc7eac36-dd08-4896-9e6b-987c54a8ca4b) ![6image_510](https://github.com/zer0int/CLIP-text-to-image/assets/132047210/4f3101c9-57b3-4d2a-abba-fb019eac510c) ![9image_980](https://github.com/zer0int/CLIP-text-to-image/assets/132047210/3ac6cdc4-a6f5-4040-9d24-122519b5db5d)
 
 ## Acknowledgements
-A significant portion of the coding for this project was performed by GPT-4 from OpenAI. Their collaboration made this exploration into the capabilities of CLIP possible.
+A significant portion of the coding for this project was performed by GPT-4 from OpenAI. The AI made this exploration into the capabilities of the CLIP AI possible.
 
 
 Also, GPT-4 wrote all of the above except the paragraph starting with "By default [...]" and this one. Thanks, AI. <3
